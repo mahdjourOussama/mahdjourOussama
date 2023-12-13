@@ -37,7 +37,7 @@
 <br>
 
 <!-- Frontend Web Development -->
-<p align="center">
+<p align="left">
   <b>Frontend Web Development:</b><br>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black">
@@ -65,7 +65,7 @@
 <p align="left">
   <b>Mobile Development:</b><br>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/Android_Studio-000000?style=for-the-badge&logo=android-studio&logoColor=black">
+  <img src="https://img.shields.io/badge/Android_Studio-000000?style=for-the-badge&logo=android-studio&logoColor=white">
 <img src="https://img.shields.io/badge/XML-000000?style=for-the-badge">
 <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge">
 

@@ -1,27 +1,27 @@
 <h1 align="center"><b>Hi, I'm Oussama Mahdjour </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+my+GitHub+space!;Information+Systems+Engineer+from+Algeria;Passionate+about+Technology+and+Innovation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+my+GitHub+space!; An Information+Systems+Engineer+from+Algeria; Passionate+about+Technology+and+Innovation">
 </p>
 
 <br>
 
-## <picture><img src = "./assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+## <picture><img src = "./assets/about_me.gif" width = 50px></picture> **About me**
 
 <picture>
   <source media="(max-width: 767px)" srcset="">
-  <img align="right" alt="" src="./assets/mdImages/programming.svg" width=300px>
+  <img align="right" alt="" src="./assets/programming.svg" width=300px>
 </picture>
 
 <br>
 
-- Hello, and welcome to my GitHub profile! My name is Oussama Mahdjour, an Information Systems Engineer passionate about creating efficient and innovative software solutions.
+- Hello, and welcome to my GitHub profile! I am Oussama Mahdjour, an Information Systems Engineer passionate about creating efficient and innovative software solutions.
 
-- I am currently exploring autoencoders, machine learning, and GANs, aiming to thrive in challenges and continuously enhance my skills.
+- I am exploring autoencoders, machine learning, and GANs, aiming to thrive in challenges and continuously enhance my skills.
 
-- As a developer, I am well-versed in various aspects of frontend, backend, and full-stack development and am always eager to dive into new technologies and projects.
+- As a developer, I am well-versed in various aspects of AI, frontend, backend, and full-stack development, and am always eager to dive into new technologies and projects.
 
-- I encourage you to take a look at my work on [My Portfolio](https://github.com/mahdjouroussama), where I showcase my abilities in various tech projects.
+- I encourage you to look at my work on [My Portfolio](https://github.com/mahdjouroussama), where I showcase my abilities in various tech projects.
 
 - My ultimate goal is to create innovative and user-friendly applications that provide real value to users.
 
@@ -75,4 +75,4 @@
 - **Extras**:
 
     <!-- Replace with your skill icons and links -->
-    ![GNU BASH](https://img.shields.io/badge/GNU%20Bash-
+    

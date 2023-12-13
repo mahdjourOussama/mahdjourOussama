@@ -21,7 +21,7 @@
 
 - As a developer, I am well-versed in various aspects of AI, frontend, backend, and full-stack development, and am always eager to dive into new technologies and projects.
 
-- I encourage you to look at my work on [My Portfolio](https://github.com/mahdjouroussama), where I showcase my abilities in various tech projects.
+- I encourage you to look at my work on [My Portfolio](https://mahdjouroussama.github.io/Portfolio/), where I showcase my abilities in various tech projects.
 
 - My ultimate goal is to create innovative and user-friendly applications that provide real value to users.
 

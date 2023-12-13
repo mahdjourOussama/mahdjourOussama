@@ -43,6 +43,7 @@
     <!-- Replace with your skill icons and links -->
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)&nbsp;
     ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
+    ![Java](https://img.shields.io/badge/Java%20-%f89820.svg?style=for-the-badge&logo=java&logoColor=#5382a1)&nbsp;
     <!-- Add other languages here -->
 
 <br>   

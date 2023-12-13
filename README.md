@@ -93,8 +93,7 @@
 
 <div align="center">
 
-[![Oussama Mahdjour's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahdjourOussama&show_icons=true&theme=default)](https://github.com/mahdjourOussama)
-
+[![Oussama Mahdjour's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=mahdjourOussama&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/mahdjourOussama)
 
 </div>
 

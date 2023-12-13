@@ -6,7 +6,7 @@
 
 <br>
 
-## <picture><img src = "./assets/about_me.gif" width = 50px></picture> **About me**
+## <picture><img src = "./about_me.gif" width = 50px></picture> **About me**
 
 <picture>
   <source media="(max-width: 767px)" srcset="">
@@ -31,7 +31,7 @@
 
 <br><br>
 
-<img src="./about_me.gif"><br><br>
+
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <br>
@@ -85,3 +85,59 @@
   <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
   <img src="https://img.shields.io/badge/Seaborn-000000?style=for-the-badge">
 </p>
+
+<br>
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> GitHub Stats </b>
+<br>
+
+<div align="center">
+
+[![Oussama Mahdjour's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=mahdjourOussama&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/mahdjourOussama)
+[![Oussama Mahdjour's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=mahdjourOussama&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/mahdjourOussama)
+
+</div>
+
+<br>
+<br>
+
+-----
+
+<br>
+<br>
+
+## <b> Let's Connect..!</b><img src="./handshake.gif" width ="80">
+<br>
+<div align='left'>
+
+<ul>
+
+<li>
+<a href="https://linkedin.com/in/oussamamahdjour" target="_blank">
+<img src="https://img.shields.io/badge/linkedin:  OussamaMahdjour-0077B5.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin/>
+</a>
+</li>
+
+<br>
+
+<li>
+<a href="https://twitter.com/oussama_mahdjour" target="_blank">
+<img src="https://img.shields.io/badge/twitter:  mahdjourOussama-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter/>
+</a>
+</li>
+
+<br>
+
+<li>
+<a href="mailto:mahdjouroussama@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/gmail:  mahdjourOussama-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail/>
+</a>
+</li>
+	
+</ul>
+</div>
+
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br>
+

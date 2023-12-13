@@ -36,44 +36,53 @@
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <br>
 
+<!-- Languages -->
 <p align="center">
+  <b>Languages:</b><br>
+  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+  ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)&nbsp;
+</p>
 
-- **Languages**:
+<!-- Front-End Development -->
+<p align="center">
+  <b>Front-End Development:</b><br>
+  ![React.js](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+  ![Tailwind.css](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;
+</p>
 
-    <!-- Replace with your skill icons and links -->
-    ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
-    ![Java](https://img.shields.io/badge/Java%20-%f89820.svg?style=for-the-badge&logo=java&logoColor=#5382a1)&nbsp;
-    <!-- Add other languages here -->
+<!-- Back-End Development -->
+<p align="center">
+  <b>Back-End Development:</b><br>
+  ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)&nbsp;
+  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
+  ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)&nbsp;
+  <!-- Add more backend technologies if needed -->
+</p>
 
-<br>   
-    
-- **Front-End Development**:
+<!-- AI and Data Science -->
+<p align="center">
+  <b>Data Science and AI:</b><br>
+  ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)&nbsp;
+  ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)&nbsp;
+  ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white)&nbsp;
+  <!-- Add more AI and data science technologies if needed -->
+</p>
 
-    <!-- Replace with your skill icons and links -->
-    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-    <!-- Add other front-end technologies here -->
+<!-- Softwares and Tools -->
+<p align="center">
+  <b>Softwares and Tools:</b><br>
+  ![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+  ![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)&nbsp;
+  ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
+  <!-- Add more software and tools if needed -->
+</p>
 
-<br>
-
-- **Cloud Hosting**:
-
-    <!-- Replace with your skill icons and links -->
-    ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
-    
-<br>
-
-- **Softwares and Tools**:
-
-    <!-- Replace with your skill icons and links -->
-    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
-    <!-- Add other softwares and tools here -->
-
-<br>
-
-- **Extras**:
-
-    <!-- Replace with your skill icons and links -->
-    
+<!-- Extras -->
+<p align="center">
+  <b>Extras:</b><br>
+  <!-- Include any additional skills or technologies here -->
+</p>

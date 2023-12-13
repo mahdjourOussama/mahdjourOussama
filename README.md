@@ -48,26 +48,31 @@
 </p>
 
 <!-- Backend Development -->
-<p align="center">
+<p align="left">
   <b>Backend Development:</b><br>
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/Oracle_DB-F80000?style=for-the-badge&logo=oracle&logoColor=black">
-  <!-- Add REST API, SQL, NoSQL badges -->
+<img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge">
+<img src="https://img.shields.io/badge/SQL-4169E1?style=for-the-badge">
+<img src="https://img.shields.io/badge/NoSQL-000000?style=for-the-badge">
+
 </p>
 
 <!-- Mobile Development -->
-<p align="center">
+<p align="left">
   <b>Mobile Development:</b><br>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white">
-  <!-- Add XML, SQLite badges -->
+  <img src="https://img.shields.io/badge/Android_Studio-000000?style=for-the-badge&logo=android-studio&logoColor=black">
+<img src="https://img.shields.io/badge/XML-000000?style=for-the-badge">
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge">
+
 </p>
 
 <!-- Data Science and AI -->
-<p align="center">
+<p align="left">
   <b>Data Science and AI:</b><br>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white">
@@ -78,5 +83,5 @@
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
   <img src="https://img.shields.io/badge/Matplotlib-FF6347?style=for-the-badge">
   <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
-  <!-- Add Seaborn badge -->
+  <img src="https://img.shields.io/badge/Seaborn-000000?style=for-the-badge">
 </p>

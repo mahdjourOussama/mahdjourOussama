@@ -120,7 +120,7 @@
 <br>
 
 <li>
-<a href="https://twitter.com/oussama_mahdjour" target="_blank">
+<a href="https://twitter.com/Oussam_mahdjour" target="_blank">
 <img src="https://img.shields.io/badge/twitter:  mahdjourOussama-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter/>
 </a>
 </li>

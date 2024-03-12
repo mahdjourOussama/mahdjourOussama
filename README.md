@@ -91,11 +91,7 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> GitHub Stats </b>
 <br>
 
-<div align="center">
 
-[![Oussama Mahdjour's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=mahdjourOussama&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/mahdjourOussama)
-
-</div>
 
 <br>
 <br>

@@ -45,6 +45,8 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/Next.js-F7DF1E?style=for-the-badge&logo=next&logoColor=black">
+  <img src="https://img.shields.io/badge/VueJs-F7DF1E?style=for-the-badge&logo=vue&logoColor=black">
 </p>
 
 <!-- Backend Development -->
@@ -86,20 +88,6 @@
   <img src="https://img.shields.io/badge/Seaborn-000000?style=for-the-badge">
 </p>
 
-<br>
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> GitHub Stats </b>
-<br>
-
-
-
-<br>
-<br>
-
------
-
-<br>
-<br>
 
 ## <b> Let's Connect..!</b><img src="./handshake.gif" width ="80">
 <br>

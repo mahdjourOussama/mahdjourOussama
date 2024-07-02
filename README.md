@@ -17,8 +17,6 @@
 
 - Hello, and welcome to my GitHub profile! I am Oussama Mahdjour, an Information Systems Engineer passionate about creating efficient and innovative software solutions.
 
-- I am exploring autoencoders, machine learning, and GANs, aiming to thrive in challenges and continuously enhance my skills.
-
 - As a developer, I am well-versed in various aspects of AI, frontend, backend, and full-stack development, and am always eager to dive into new technologies and projects.
 
 - I encourage you to look at my work on <a href="https://mahdjouroussama.github.io/Portfolio/" target="_blank" > My Portfolio</a>, where I showcase my abilities in various tech projects.

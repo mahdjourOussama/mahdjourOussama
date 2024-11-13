@@ -19,7 +19,7 @@
 
 - As a developer, I am well-versed in various aspects of AI, frontend, backend, and full-stack development, and am always eager to dive into new technologies and projects.
 
-- I encourage you to look at my work on <a href="https://mahdjouroussama.github.io/Portfolio/" target="_blank" > My Portfolio</a>, where I showcase my abilities in various tech projects.
+- I encourage you to look at my work on <a href="https://portfolio-two-weld-83.vercel.app/" target="_blank" > My Portfolio</a>, where I showcase my abilities in various tech projects.
 
 - My ultimate goal is to create innovative and user-friendly applications that provide real value to users.
 

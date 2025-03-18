@@ -1,124 +1,87 @@
 <h1 align="center"><b>Hi, I'm Oussama Mahdjour </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+my+GitHub+space!;An+Information+Systems+Engineer+from+Algeria;a+Passionate+about+Technology+and+Innovation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+my+GitHub+space!;Software+%26+AI+Engineer;Passionate+about+Technology+and+Innovation;Building+AI+%26+Data+Pipelines">
 </p>
 
-<br>
+---
 
-## <picture><img src = "./about_me.gif" width = 50px></picture> **About me**
+## <picture><img src = "./about_me.gif" width = 50px></picture> **About Me**
 
 <picture>
-  <source media="(max-width: 767px)" srcset="">
-  <img align="right" alt="" src="./programming.svg" width=300px>
+  <img align="right" alt="Coding" src="./programming.svg" width=250px>
 </picture>
 
-<br>
+- Former **Software & AI Engineer at OwlStack**, building AI-powered chatbots and scalable applications.
+- Expertise in **AI, Full-Stack Development, and Data Engineering**.
+- Passionate about **Data Science, AI, and Scalable Software Systems**.
+- Building innovative solutions using **Python, FastAPI, Next, and Postgres**.
+- 📫 Contact me at **[mahdjouroussama@gmail.com](mailto:mahdjouroussama@gmail.com)**.
+- 🌍 Check out my **[Portfolio](https://portfolio-oussama-mahdjours-projects.vercel.app)**.
 
-- Hello, and welcome to my GitHub profile! I am Oussama Mahdjour, an Information Systems Engineer passionate about creating efficient and innovative software solutions.
+---
 
-- As a developer, I am well-versed in various aspects of AI, frontend, backend, and full-stack development, and am always eager to dive into new technologies and projects.
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> **Tech Stack**
 
-- I encourage you to look at my work on <a href="https://portfolio-two-weld-83.vercel.app/" target="_blank" > My Portfolio</a>, where I showcase my abilities in various tech projects.
+### **Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white)
 
-- My ultimate goal is to create innovative and user-friendly applications that provide real value to users.
+### **AI & Data Science**
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
+![Transformers](https://img.shields.io/badge/HuggingFace-FFBF00?style=for-the-badge&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-FF9900?style=for-the-badge)
 
-- I am always open to new ideas and opportunities to collaborate with other passionate developers. Feel free to reach out to me at <a href="mailto:mahdjouroussama@gmail.com" target="_blank" >mahdjouroussama@gmail.com</a>
+### **Backend Development**
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/NodeJS-43853D?style=for-the-badge&logo=nodejs&logoColor=white)
+![AndroidStudio](https://img.shields.io/badge/AndroidStudio-85369D?style=for-the-badge&logo=AndroidStudio&logoColor=white)
 
-- Thank you for visiting my profile, and I look forward to connecting with you!
+### **Frontend Development**
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next-050505?style=for-the-badge&logo=nextjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Streamlit](https://img.shields.io/badge/streamlit-125239?style=for-the-badge&logo=streamlit&logoColor=white)
 
-<br><br>
+### **Data Engineering**
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![Spark](https://img.shields.io/badge/Apache_Spark-F69839?style=for-the-badge&logo=apache-spark&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![Logstash](https://img.shields.io/badge/Logstash-045871?style=for-the-badge&logo=Logstash&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
 
+---
 
+## 🚀 **Featured Projects**
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-<br>
+### **🔹 RAG Chatbot**
+- Built a scalable chatbot integrating **LLMs with Retrieval-Augmented Generation (RAG)**.
+- Implemented microservices using **FastAPI, PostgreSQL, Redis, and Streamlit**.
+- Deployed with **Docker and Kubernetes**.
 
-<!-- Frontend Web Development -->
-<p align="left">
-  <b>Frontend Web Development:</b><br>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/Next.js-F7DF1E?style=for-the-badge&logo=next&logoColor=black">
-  <img src="https://img.shields.io/badge/VueJs-F7DF1E?style=for-the-badge&logo=vue&logoColor=black">
-</p>
+### **🔹 Reddit-Crypto-Sentiment-Analysis**
+- Developed a **data pipeline to analyze Reddit sentiment on cryptocurrency markets**.
+- Integrated data mining and web scraping techniques.
 
-<!-- Backend Development -->
-<p align="left">
-  <b>Backend Development:</b><br>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/Oracle_DB-F80000?style=for-the-badge&logo=oracle&logoColor=black">
-<img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge">
-<img src="https://img.shields.io/badge/SQL-4169E1?style=for-the-badge">
-<img src="https://img.shields.io/badge/NoSQL-000000?style=for-the-badge">
+### **🔹 Audio Summarization System**
+- Developed a **real-time audio summarization system** using **Whisper, BERT, and Streamlit**.
 
-</p>
+### **🔹 DoS/DDoS Intrusion Detection Using Machine & Deep Learning**
+- Studied and proposed a new **Approach for intrusion detection** using **AutoEncoder architecture** for anomaly detection.
+- Build DoS/DDos classifier using machine learning classifiers such as **XGBoost, AdaBoost, LightGBM, and Random forest**
 
-<!-- Mobile Development -->
-<p align="left">
-  <b>Mobile Development:</b><br>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/Android_Studio-000000?style=for-the-badge&logo=android-studio&logoColor=white">
-<img src="https://img.shields.io/badge/XML-000000?style=for-the-badge">
-<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge">
+---
 
-</p>
+## <b>📬 Let's Connect!</b>
 
-<!-- Data Science and AI -->
-<p align="left">
-  <b>Data Science and AI:</b><br>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white">
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
-  <img src="https://img.shields.io/badge/Matplotlib-FF6347?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
-  <img src="https://img.shields.io/badge/Seaborn-000000?style=for-the-badge">
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-OussamaMahdjour-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/oussamamahdjour)
+[![GitHub](https://img.shields.io/badge/GitHub-mahdjourOussama-101010?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mahdjourOussama)
+[![Email](https://img.shields.io/badge/Gmail-mahdjourOussama-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahdjouroussama@gmail.com)
 
+---
 
-## <b> Let's Connect..!</b><img src="./handshake.gif" width ="80">
-<br>
-<div align='left'>
-
-<ul>
-
-<li>
-<a href="https://linkedin.com/in/oussamamahdjour" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  OussamaMahdjour-0077B5.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin/>
-</a>
-</li>
-
-<br>
-
-<li>
-<a href="https://twitter.com/Oussam_mahdjour" target="_blank">
-<img src="https://img.shields.io/badge/twitter:  mahdjourOussama-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter/>
-</a>
-</li>
-
-<br>
-
-<li>
-<a href="mailto:mahdjouroussama@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  mahdjourOussama-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail/>
-</a>
-</li>
-	
-</ul>
-</div>
-
-<br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br>
-
+🌟 **Thank you for visiting my profile!** 🚀

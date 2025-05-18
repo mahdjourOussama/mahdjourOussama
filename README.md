@@ -19,7 +19,7 @@
 - 🌐 Passionate about **AI, Full-Stack Development, and Data Engineering**, with a strong foundation in building innovative solutions.
 - 🛠️ Proficient in **Python, Typescript, Javascript, and SQL**.
 - 📫 Reach me at **[dev.mahdjour.oussama@gmail.com](mailto:dev.mahdjour.oussama@gmail.com)**.
-- 🌍 Explore my work on my **[Portfolio](https://oussamamahdjour.engineer)**.
+- 🌍 Explore my work on my **[Portfolio](https://oussamamhdjour.engineer)**.
 
 ---
 

@@ -8,10 +8,6 @@
 
 ## <picture><img src="./about_me.gif" width=50px></picture> **About Me**
 
-<picture>
-  <img align="right" alt="Coding" src="./oussama.gif" width=350px>
-</picture>
-
 - 🎓 **PhD Student in Artificial Intelligence** at **INSA Strasbourg**, focusing on **Explainable AI** and **Neuro-Symbolic Systems** in the field of **energy sustainability and battery safety**.  
 - 🎓 **Master’s in Computer Science (DataScale – Big Data)** from **Université Paris-Saclay**.  
 - 🎓 **State Engineer + Master’s in Information Systems Engineering & Management** from **École Nationale Polytechnique d’Oran (ENPO)**.  
